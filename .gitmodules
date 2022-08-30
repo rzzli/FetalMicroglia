@@ -1,0 +1,3 @@
+[submodule "MONet"]
+	path = MONet
+	url = https://github.com/rzzli/MONet.git
